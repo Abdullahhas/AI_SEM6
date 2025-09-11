@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run chk.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "E:/AI/chk.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
